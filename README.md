@@ -1,11 +1,13 @@
 > **Disclamer**
 >
 > This is a clone of [original heatmap.js package](https://www.npmjs.com/package/heatmap.js) to publish a [fix by charliesantos](https://github.com/SVPA-CharlieSantos/heatmap.js/commit/146116ac2f0249d501ec3767729b8429fc57ae3e) for [issue #219](https://github.com/pa7/heatmap.js/issues/219).
+>
+> Kudos to [pa7](https://www.npmjs.com/~pa7), buy him a 🍺️!
 
 # heatmap.js
 
 
-Dynamic Heatmaps for the Web. 
+Dynamic Heatmaps for the Web.
 
 [<img src="http://www.patrick-wied.at/static/heatmapjs/assets/img/heatmapjs-examples-docs-banner.jpg" width="100%">](http://www.patrick-wied.at/static/heatmapjs/?utm_source=gh "View the heatmap.js website with usage examples, showcases, best practises, plugins ( googlemaps heatmap, leaflet) and more.")
 
@@ -36,26 +38,26 @@ Start a webserver (e.g. python SimpleHTTPServer from the project directory root)
 
 `python -m SimpleHTTPServer 1337 &`
 
-Then browse to 
+Then browse to
 
 `http://localhost:1337/examples/`
 
 
 ## Get involved
 
-Please have a look at the [contribution guidelines](CONTRIBUTE.md) before submitting contributions. 
+Please have a look at the [contribution guidelines](CONTRIBUTE.md) before submitting contributions.
 
 **Disclaimer**: PRs can take time to receive feedback or be merged ( I'm only one person with very little time ) but I'm trying to get back to everyone eventually
 
 ## Questions?
 
-In order to keep technical questions in a central place where other people can learn from it, the best thing you can do is [post your question to stackoverflow with the tag **heatmap.js**.](http://stackoverflow.com/questions/ask?tags=heatmap.js) 
+In order to keep technical questions in a central place where other people can learn from it, the best thing you can do is [post your question to stackoverflow with the tag **heatmap.js**.](http://stackoverflow.com/questions/ask?tags=heatmap.js)
 
 If you do have a very specific question (or need commercial support) don't hesitate to contact me directly [via email](mailto:heatmap-q@patrick-wied.at).
 
 
 ## Mailing list
 
-Want to receive the latest updates and news about heatmap.js? 
+Want to receive the latest updates and news about heatmap.js?
 
 There is a [mailing list](http://eepurl.com/0mmV5). No spam, just news and important updates.
