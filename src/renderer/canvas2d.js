@@ -277,7 +277,7 @@ var Canvas2dRenderer = (function Canvas2dRendererClosure() {
 
       }
 
-      img.data = imgData;
+      // img.data = imgData; // this causes https://github.com/pa7/heatmap.js/issues/219#issue-174592272
       this.ctx.putImageData(img, x, y);
 
       this._renderBoundaries = [1000, 1000, 0, 0];
