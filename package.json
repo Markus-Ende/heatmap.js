@@ -1,7 +1,7 @@
 {
-  "name": "heatmap.js",
+  "name": "@markusende/heatmap.js",
   "version": "2.0.5",
-  "description": "Dynamic JavaScript Heatmaps for the Web",
+  "description": "Dynamic JavaScript Heatmaps for the Web (with bugfix)",
   "homepage": "https://www.patrick-wied.at/static/heatmapjs/",
   "author": {
     "name": "Patrick Wied",

@@ -1,4 +1,10 @@
+> **Disclamer**
+>
+> This is a clone of [original heatmap.js package](https://www.npmjs.com/package/heatmap.js) to publish a [fix by charliesantos](https://github.com/SVPA-CharlieSantos/heatmap.js/commit/146116ac2f0249d501ec3767729b8429fc57ae3e) for [issue #219](https://github.com/pa7/heatmap.js/issues/219).
+
 # heatmap.js
+
+
 Dynamic Heatmaps for the Web. 
 
 [<img src="http://www.patrick-wied.at/static/heatmapjs/assets/img/heatmapjs-examples-docs-banner.jpg" width="100%">](http://www.patrick-wied.at/static/heatmapjs/?utm_source=gh "View the heatmap.js website with usage examples, showcases, best practises, plugins ( googlemaps heatmap, leaflet) and more.")
